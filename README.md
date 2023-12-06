@@ -2,9 +2,13 @@ It’s a Spring-Based software application which is capable of storing and manag
 
 <br>
 Tools used:
+<br>
 o	Writing front-end logics using HTML, CSS
+<br>
 o	Spring- MVC framework for data transfer
+<br>
 o	Repository class for connection with database using 4 classes (controller, service, repository and POJO)
+<br>
 o	Hibernate for Designing Back-end logics 
 
 <br>
